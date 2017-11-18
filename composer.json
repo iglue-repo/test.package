@@ -1,5 +1,5 @@
 {
-    "name": "test/package",
+    "name": "test@iglue/package",
     "description": "Testing github integration with iglue repository",
     "type": "library",
     "license": "MIT",
